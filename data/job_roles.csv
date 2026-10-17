@@ -1,0 +1,14 @@
+
+role,category,description,required_skills
+Java Software Developer,Software Development,Develop Java applications using OOP and data structures,"java,data structures algorithms,object oriented programming,sql,git"
+Software Development Intern,Software Development,Solve programming problems and implement software features,"java,python,data structures algorithms,problem solving,git"
+Backend Developer,Software Development,Build server-side applications and REST APIs,"java,python,node.js,sql,api,git"
+Frontend Developer,Web Development,Build responsive web interfaces,"javascript,react,html,css,git"
+Full Stack Developer Intern,Web Development,Build frontend pages and connect backend APIs,"javascript,react,node.js,sql,git,api"
+Python Developer,Software Development,Develop Python scripts and backend services,"python,sql,api,git,problem solving"
+Junior Data Analyst,Data Analytics,Analyze data and prepare reports,"sql,excel,python,statistics,data visualization"
+Business Intelligence Intern,Data Analytics,Create dashboards and analyze business metrics,"sql,excel,power bi,statistics,data visualization"
+Machine Learning Intern,Machine Learning,Prepare datasets and build baseline ML models,"python,pandas,scikit-learn,statistics,linear algebra"
+Cloud Support Associate,Cloud & DevOps,Support cloud infrastructure and troubleshoot systems,"linux,networking,cloud,git,bash"
+QA Automation Intern,Software Testing,Write and execute automated software tests,"java,python,testing,git,sql"
+Cybersecurity Analyst Trainee,Cybersecurity,Review security logs and basic security controls,"networking,linux,security,python,sql"
